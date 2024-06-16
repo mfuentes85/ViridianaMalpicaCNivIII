@@ -1,0 +1,4 @@
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\CalculaArea\CalculArea\obj\Debug\net8.0\CalculArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\CalculaArea\CalculArea\obj\Debug\net8.0\CalculArea.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\CalculaArea\CalculArea\obj\Debug\net8.0\CalculArea.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\CalculaArea\CalculArea\obj\Debug\net8.0\CalculArea.csproj.CoreCompileInputs.cache
