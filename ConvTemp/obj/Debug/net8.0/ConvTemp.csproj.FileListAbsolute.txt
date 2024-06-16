@@ -1,0 +1,15 @@
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\bin\Debug\net8.0\ConvTemp.exe
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\bin\Debug\net8.0\ConvTemp.deps.json
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\bin\Debug\net8.0\ConvTemp.runtimeconfig.json
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\bin\Debug\net8.0\ConvTemp.dll
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\bin\Debug\net8.0\ConvTemp.pdb
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.csproj.CoreCompileInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.sourcelink.json
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.dll
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\refint\ConvTemp.dll
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.pdb
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ConvTemp.genruntimeconfig.cache
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConvTemp\obj\Debug\net8.0\ref\ConvTemp.dll

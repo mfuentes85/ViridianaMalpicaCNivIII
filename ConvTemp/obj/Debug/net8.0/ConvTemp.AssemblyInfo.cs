@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConversionTemperatura")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConvTemp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4f61eff20e05bf378ec3e66c8ce012aa224ec4")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConversionTemperatura")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConversionTemperatura")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConvTemp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConvTemp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
