@@ -1,0 +1,4 @@
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.AssemblyInfoInputs.cache
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.AssemblyInfo.cs
+C:\NetAcademy\c#\ViridianaMalpicaCNivII\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.csproj.CoreCompileInputs.cache
